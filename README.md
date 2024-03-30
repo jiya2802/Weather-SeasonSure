@@ -1,4 +1,4 @@
-[**Seasonsure**
+**Seasonsure**
 
 Welcome to Seasonsure, your go-to source for real-time weather information!
 
